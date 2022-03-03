@@ -1,0 +1,110 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: #FB4934;
+    color: #282828;
+    justify-content: space-around;
+}
+
+ul {
+    list-style: none;
+}
+
+.nav-items, .desc {
+    display: flex;
+    align-items: center;
+}
+
+.home {
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.in-flex {
+    flex: 1;
+}
+
+.in-flex:first-child {
+    flex: 2;
+    min-width: 250px;
+}
+
+.in-flex div {
+    padding: 1rem;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btn {
+    border: none;
+    background-color: #282828;
+    border-radius: 20px;
+}
+
+.project-plus {
+    flex: 1;
+}
+
+.super-container {
+    height: 100vh;
+    width: 100%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #FB4934;
+}
+
+.message {
+    display: none;
+    position: absolute;
+    left: 88%;
+    transform: translateX(-88%);
+}
+
+#ukr-flag:hover .message {
+    display: block;
+}
+
+.icons-social:hover {
+    color: #FB4934;
+}
+
+input, textarea {
+    border: none;
+    background-color: azure;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+label {
+    padding: 0.5rem;
+}
+
+.form-container {
+    display: grid;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-send {
+    border: none;
+    background-color: #282828;
+    border-radius: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+}

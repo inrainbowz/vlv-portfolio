@@ -1,0 +1,46 @@
+@media (max-width: 590px) {
+    .hide {
+        display: none;
+    }
+    .titles {
+        font-family: 'Roboto Slab', serif;
+    }
+    .name {
+        font-family: 'Playfair Display', serif;
+    }
+    .f-15 {
+        font-size: 10px;
+    }
+    .f-20 {
+        font-size: 15px;
+    }
+    .f-25 {
+        font-size: 20px;
+    }    
+    .f-30 {
+        font-size: 25px;
+    }    
+    .f-35 {
+        font-size: 30px;
+    }
+
+    .f-45 {
+        font-size: 30px;
+    }
+    .super-container {
+        height: auto;
+    }
+    .message {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        display: block;
+    }
+    .p-2 {
+        padding: 1rem;
+    }
+    #contact {
+        padding: 0;
+        margin: 0;
+    }
+}

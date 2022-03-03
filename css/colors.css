@@ -1,0 +1,54 @@
+/* Fonts */
+.normal {
+    color: #282828;
+}
+
+.black {
+    color: #1e1e1e;
+}
+
+.white {
+    color: rgb(255, 245, 245);
+}
+
+.red {
+    color: #FB4934;
+}
+
+/* Backgrounds */
+.bg-red {
+    background-color: #FB4934;
+}
+
+.bg-yellow {
+    background-color: #FABD2F;
+}
+
+.bg-blue {
+    background-color: #a8d6c5;
+}
+
+.bg-green {
+    background-color: #b6dba8;
+}
+
+.bg-white {
+    background-color: #FBF1C7;
+}
+
+/* Testing colors */
+.bg-test {
+    background-color: #FFD42D;
+}
+
+.bg-alt {
+    background-color: #2A9988;
+}
+
+.bg-blue-ukr {
+    background-color: #0054B2;
+}
+
+.bg-yellow-ukr {
+    background-color: #F6D000;
+}
