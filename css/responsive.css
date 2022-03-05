@@ -1,12 +1,6 @@
-@media (max-width: 590px) {
+@media (max-width: 890px) {
     .hide {
         display: none;
-    }
-    .titles {
-        font-family: 'Roboto Slab', serif;
-    }
-    .name {
-        font-family: 'Playfair Display', serif;
     }
     .f-15 {
         font-size: 10px;
@@ -43,4 +37,44 @@
         padding: 0;
         margin: 0;
     }
+    .navbar {
+        display: flex;
+        color: #282828;
+        margin-top: 1rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        justify-content: space-between;
+    }
+    .nav-items {
+        display: none;
+    }
+    .img-none img {
+        display: none;
+    }
+    #contact {
+        overflow-x: hidden;
+    }
+    #contact input {
+        width: 85%;
+    }
+    #contact textarea {
+        width: 85%;
+    }
+    .hide {
+        display: block;
+        font-size: 30px;
+        margin-top: 10px;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1500px) {
+    .img-none {
+        display: none;
+    }
+}
+
+.nav-active {
+    transform: translateX(0%);
+    transition: transform 0.5s ease-out;
 }
