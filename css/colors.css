@@ -1,0 +1,48 @@
+.btn {
+    color: white;
+    background-color: #096B72;
+}
+
+.icons-social:hover {
+    color: rgb(204, 203, 203);
+}
+
+.btn-send {
+    background-color: #096B72;
+    color: white;
+}
+
+.nav-item:hover {
+    color: rgb(204, 203, 203);
+}
+
+.nav-item {
+    color: white;
+}
+
+.navbar {
+    color: #282828;
+}
+
+/* HEADER */
+html {
+    background-color: #1d2021;
+}
+
+.navbar {
+    background-color: #1d2021;
+    color: white;
+}
+
+.black {
+    background-color: #1d2021;
+    color: white;
+}
+
+.white-f {
+    color: white;
+}
+
+.white {
+    background-color: white;
+}
