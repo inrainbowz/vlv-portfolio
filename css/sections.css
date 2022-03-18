@@ -63,10 +63,6 @@
     transform: translateX(-88%);
 }
 
-#ukr-flag:hover .message {
-    display: block;
-}
-
 .form-container {
     display: grid;
 }
@@ -93,6 +89,7 @@ button:hover {
 
 .img-none {
     width: 100%;
+    margin-bottom: 10px;
 }
 
 .hide {

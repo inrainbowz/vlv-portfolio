@@ -9,15 +9,15 @@
 
 .btn-send {
     background-color: #096B72;
-    color: white;
+    color: whitesmoke;
 }
 
 .nav-item:hover {
-    color: rgb(204, 203, 203);
+    color: #40c0b9;
 }
 
 .nav-item {
-    color: white;
+    color: whitesmoke;
 }
 
 .navbar {
@@ -31,7 +31,7 @@ html {
 
 .navbar {
     background-color: #1d2021;
-    color: white;
+    color: whitesmoke;
 }
 
 .black {
@@ -40,9 +40,17 @@ html {
 }
 
 .white-f {
-    color: white;
+    color: whitesmoke;
 }
 
 .white {
-    background-color: white;
+    background-color: whitesmoke;
+}
+
+.blue, bold {
+    color: #40c0b9;
+}
+
+.bg-blue {
+    background-color: #40c0b9;
 }
