@@ -1,0 +1,56 @@
+.btn {
+    color: white;
+    background-color: #096B72;
+}
+
+.icons-social:hover {
+    color: rgb(204, 203, 203);
+}
+
+.btn-send {
+    background-color: #096B72;
+    color: whitesmoke;
+}
+
+.nav-item:hover {
+    color: #40c0b9;
+}
+
+.nav-item {
+    color: whitesmoke;
+}
+
+.navbar {
+    color: #282828;
+}
+
+/* HEADER */
+html {
+    background-color: #1d2021;
+}
+
+.navbar {
+    background-color: #1d2021;
+    color: whitesmoke;
+}
+
+.black {
+    background-color: #1d2021;
+    color: white;
+}
+
+.white-f {
+    color: whitesmoke;
+}
+
+.white {
+    background-color: whitesmoke;
+}
+
+.blue, bold {
+    color: #40c0b9;
+}
+
+.bg-blue {
+    background-color: #40c0b9;
+}
